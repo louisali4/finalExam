@@ -13,6 +13,7 @@
 		00A1F7A92821A5D4003702CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00A1F7A72821A5D4003702CD /* Main.storyboard */; };
 		00A1F7AB2821A5D4003702CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00A1F7AA2821A5D4003702CD /* Assets.xcassets */; };
 		00A1F7AE2821A5D4003702CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00A1F7AC2821A5D4003702CD /* LaunchScreen.storyboard */; };
+		00A1F7B62821A669003702CD /* backgroud.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 00A1F7B52821A669003702CD /* backgroud.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		00A1F7AA2821A5D4003702CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00A1F7AD2821A5D4003702CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00A1F7AF2821A5D4003702CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00A1F7B52821A669003702CD /* backgroud.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = backgroud.jpg; path = finalExam/backgroud.jpg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				00A1F7A52821A5D4003702CD /* ViewController.swift */,
 				00A1F7A72821A5D4003702CD /* Main.storyboard */,
 				00A1F7AA2821A5D4003702CD /* Assets.xcassets */,
+				00A1F7B52821A669003702CD /* backgroud.jpg */,
 				00A1F7AC2821A5D4003702CD /* LaunchScreen.storyboard */,
 				00A1F7AF2821A5D4003702CD /* Info.plist */,
 			);
@@ -127,6 +130,7 @@
 			files = (
 				00A1F7AE2821A5D4003702CD /* LaunchScreen.storyboard in Resources */,
 				00A1F7AB2821A5D4003702CD /* Assets.xcassets in Resources */,
+				00A1F7B62821A669003702CD /* backgroud.jpg in Resources */,
 				00A1F7A92821A5D4003702CD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
